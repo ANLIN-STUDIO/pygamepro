@@ -1,2 +1,0 @@
-# Author: Anlin
-# module: pygamepro
